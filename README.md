@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋-->
 
 <!--
 **leoysun/leoysun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+😁 Hi! I'm Leo, a sophomore at Columbia University studying Computer Science.
+🎮 Interested in and learning about AI, database systems, algorithms, and game development!
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/leoysun/) | leo.sun@columbia.edu
+
+
